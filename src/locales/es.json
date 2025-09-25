@@ -1,0 +1,9 @@
+{
+  "title": "Cómic de Superhéroes",
+  "searchPlaceholder": "Buscar superhéroe...",
+  "searchButton": "Buscar",
+  "noResults": "No se encontraron resultados.",
+  "errorMessage": "Error de conexión. Inténtalo de nuevo.",
+  "intelligence": "Inteligencia",
+  "aliases": "Alias"
+}

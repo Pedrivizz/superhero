@@ -1,0 +1,9 @@
+{
+  "title": "Superhero Comic",
+  "searchPlaceholder": "Search superhero...",
+  "searchButton": "Search",
+  "noResults": "No results found.",
+  "errorMessage": "Connection error. Please try again.",
+  "intelligence": "Intelligence",
+  "aliases": "Aliases"
+}
